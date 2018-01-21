@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Contactlist</string>
+    <string name="app_name">My Contact</string>
     <string name="no_contact_available">No Contacts</string>
 
     <string name="ok">OK</string>
@@ -13,7 +13,6 @@
 
     <string name="title_contact_list">Contact List</string>
     <string name="title_contact_detail">Contact Detail</string>
-
 
 
 </resources>
